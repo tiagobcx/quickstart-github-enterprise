@@ -110,13 +110,13 @@ Mappings:
     eu-central-1:
       GHE: ami-033da9cc6d8f244d6
     eu-west-1:
-      GHE: ami-0b6546c8c336c4b27
+      GHE: ami-0567fcfd9e1ffb13f
     eu-west-2:
       GHE: ami-07ec810305329c668
     sa-east-1:
       GHE: ami-069c42c56220d739b
     us-east-1:
-      GHE: ami-0375dc11ba4620efd
+      GHE: ami-0567fcfd9e1ffb13f
     us-east-2:
       GHE: ami-0bae35016f5a376a6
     us-west-1:
