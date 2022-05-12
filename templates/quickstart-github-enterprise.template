@@ -435,7 +435,7 @@ Resources:
     DependsOn: EC2Instance
     Properties:
       Handle: !Ref 'WaitforGitHubEnterpriseInstall'
-      Timeout: '500'
+      Timeout: '10000'
     Type: AWS::CloudFormation::WaitCondition
   InstanceSecurityGroup:
     Properties:
