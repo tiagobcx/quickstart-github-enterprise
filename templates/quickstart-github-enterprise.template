@@ -94,7 +94,7 @@ Conditions:
 Mappings:
   AWSAMIRegionMap:
     AMI:
-      GHE: GitHub Enterprise Server 2.22.0
+      GHE: GitHub Enterprise Server 3.5.0
     ap-northeast-1:
       GHE: ami-0bc3e78568b25c6e3
     ap-northeast-2:
@@ -116,7 +116,7 @@ Mappings:
     sa-east-1:
       GHE: ami-069c42c56220d739b
     us-east-1:
-      GHE: ami-0567fcfd9e1ffb13f
+      GHE: ami-05e5ebade0a6ed9c2
     us-east-2:
       GHE: ami-0bae35016f5a376a6
     us-west-1:
