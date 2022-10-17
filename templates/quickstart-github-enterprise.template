@@ -414,12 +414,6 @@ Resources:
       Domain: vpc
       InstanceId: !Ref 'EC2Instance'
     Type: AWS::EC2::EIP
-  GitHubWaitCondition:
-    DependsOn: EC2Instance
-    Properties:
-      Handle: !Ref 'WaitforGitHubEnterpriseInstall'
-      Timeout: '500'
-    Type: AWS::CloudFormation::WaitCondition
   InstanceSecurityGroup:
     Properties:
       GroupDescription: Ports needed for GitHub Enterprise
