@@ -120,7 +120,7 @@ Mappings:
     sa-east-1:
       GHE: ami-0b9eab7f01fd6c8d7
     us-east-1:
-      GHE: ami-0eabc6063011d419f
+      GHE: ami-05b57ce13b4ac66c4
     us-east-2:
       GHE: ami-031dae6abfcd83d6a
     us-west-1:
